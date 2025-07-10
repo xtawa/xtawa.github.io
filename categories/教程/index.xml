@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on YanLuo洛&#39;s Blog - 分享技术学习心得</title>
+    <link>https://xtawa.top/categories/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on YanLuo洛&#39;s Blog - 分享技术学习心得</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>zeromostia@gmail.com (YanLuo洛)</managingEditor>
+    <webMaster>zeromostia@gmail.com (YanLuo洛)</webMaster>
+    <copyright>© 2024 - 2025 xtawa All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 10 Jul 2025 14:23:29 +0800</lastBuildDate><atom:link href="https://xtawa.top/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>树莓派4B Docker环境安装OpenWrt及配置代理服务</title>
+      <link>https://xtawa.top/posts/%E6%A0%91%E8%8E%93%E6%B4%BE4b-docker%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85openwrt%E5%8F%8A%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/posts/%E6%A0%91%E8%8E%93%E6%B4%BE4b-docker%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85openwrt%E5%8F%8A%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xtawa.top/posts/%E6%A0%91%E8%8E%93%E6%B4%BE4b-docker%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85openwrt%E5%8F%8A%E9%85%8D%E7%BD%AE%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

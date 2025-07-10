@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P on YanLuo洛&#39;s Blog - 分享技术学习心得</title>
+    <link>http://localhost:1313/categories/p/</link>
+    <description>Recent content in P on YanLuo洛&#39;s Blog - 分享技术学习心得</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>zeromostia@gmail.com (YanLuo洛)</managingEditor>
+    <webMaster>zeromostia@gmail.com (YanLuo洛)</webMaster>
+    <copyright>© 2024 - 2025 xtawa All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 10 Jul 2025 14:23:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/p/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>记一次电子班牌破解记录</title>
+      <link>http://localhost:1313/posts/%E8%AE%B0%E4%B8%80%E6%AC%A1%E7%94%B5%E5%AD%90%E7%8F%AD%E7%89%8C%E7%A0%B4%E8%A7%A3%E8%AE%B0%E5%BD%95/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>http://localhost:1313/posts/%E8%AE%B0%E4%B8%80%E6%AC%A1%E7%94%B5%E5%AD%90%E7%8F%AD%E7%89%8C%E7%A0%B4%E8%A7%A3%E8%AE%B0%E5%BD%95/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/%E8%AE%B0%E4%B8%80%E6%AC%A1%E7%94%B5%E5%AD%90%E7%8F%AD%E7%89%8C%E7%A0%B4%E8%A7%A3%E8%AE%B0%E5%BD%95/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

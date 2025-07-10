@@ -9,7 +9,57 @@
     <managingEditor>zeromostia@gmail.com (YanLuo洛)</managingEditor>
     <webMaster>zeromostia@gmail.com (YanLuo洛)</webMaster>
     <copyright>© 2024 - 2025 xtawa All Rights Reserved.</copyright>
-    <atom:link href="https://xtawa.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 14:23:29 +0800</lastBuildDate><atom:link href="https://xtawa.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux</title>
+      <link>https://xtawa.top/categories/linux/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/categories/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>安卓</title>
+      <link>https://xtawa.top/categories/%E5%AE%89%E5%8D%93/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/categories/%E5%AE%89%E5%8D%93/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>电子班牌</title>
+      <link>https://xtawa.top/categories/%E7%94%B5%E5%AD%90%E7%8F%AD%E7%89%8C/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/categories/%E7%94%B5%E5%AD%90%E7%8F%AD%E7%89%8C/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>教程</title>
+      <link>https://xtawa.top/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/categories/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>破解</title>
+      <link>https://xtawa.top/categories/%E7%A0%B4%E8%A7%A3/</link>
+      <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/categories/%E7%A0%B4%E8%A7%A3/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
