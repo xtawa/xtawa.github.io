@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on YanLuo洛&#39;s Blog</title>
+    <link>https://xtawa.top/series/</link>
+    <description>Recent content in Series on YanLuo洛&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>zeromostia@gmail.com (YanLuo洛)</managingEditor>
+    <webMaster>zeromostia@gmail.com (YanLuo洛)</webMaster>
+    <copyright>© 2024 - 2025 xtawa All Rights Reserved.</copyright>
+    <atom:link href="https://xtawa.top/series/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
