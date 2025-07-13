@@ -781,7 +781,6 @@ main {
           <a href="https://icp.gov.moe/?keyword=20255282" target="_blank">萌ICP备20255282号</a>
       </p>
     
-
     
     
       <p class="text-xs text-neutral-500 dark:text-neutral-400">
@@ -792,8 +791,22 @@ main {
           href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a> 强力驱动
       </p>
     
-
   </div>
+  
+  
+  <div id="sakana-widget" style="position:fixed;bottom:10px;right:10px;z-index:999;"></div>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.1/lib/sakana.min.css">
+  <script>
+    function initSakanaWidget() {
+      new SakanaWidget().mount('#sakana-widget');
+    }
+  </script>
+  <script
+    async
+    onload="initSakanaWidget()"
+    src="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.1/lib/sakana.min.js"
+  ></script>
+  
   <script>
     
     mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
@@ -818,8 +831,7 @@ main {
   <span id="busuanzi_container_site_uv">
     本站访客数<span id="busuanzi_value_site_uv"></span>人次
   </span>
-</div></footer>
-<div
+</div></footer><div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh] z-index-500"
   data-url="https://xtawa.top/">
