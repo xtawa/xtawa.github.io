@@ -9,24 +9,14 @@
     <managingEditor>zeromostia@gmail.com (YanLuo洛)</managingEditor>
     <webMaster>zeromostia@gmail.com (YanLuo洛)</webMaster>
     <copyright>© 2024 - 2025 xtawa All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 11 Jul 2025 12:56:29 +0800</lastBuildDate><atom:link href="https://xtawa.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Jul 2025 14:23:29 +0800</lastBuildDate><atom:link href="https://xtawa.top/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>友链</title>
-      <link>https://xtawa.top/posts/friendlink/</link>
-      <pubDate>Sun, 02 Feb 2020 16:23:32 +0800</pubDate>
+      <title>使用Vercel&#43;PicX加速Github图床</title>
+      <link>https://xtawa.top/posts/vercel-cdnpic/</link>
+      <pubDate>Mon, 14 Jul 2025 14:23:29 +0800</pubDate>
       <author>zeromostia@gmail.com (YanLuo洛)</author>
-      <guid>https://xtawa.top/posts/friendlink/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>https://xtawa.top/posts/about/</link>
-      <pubDate>Sun, 02 Feb 2020 16:23:32 +0800</pubDate>
-      <author>zeromostia@gmail.com (YanLuo洛)</author>
-      <guid>https://xtawa.top/posts/about/</guid>
+      <guid>https://xtawa.top/posts/vercel-cdnpic/</guid>
       <description></description>
       
     </item>
@@ -37,6 +27,26 @@
       <pubDate>Fri, 11 Jul 2025 12:56:29 +0800</pubDate>
       <author>zeromostia@gmail.com (YanLuo洛)</author>
       <guid>https://xtawa.top/posts/roblox-cset/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://xtawa.top/posts/secret/_about/</link>
+      <pubDate>Thu, 10 Jul 2025 16:23:32 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/posts/secret/_about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>友链</title>
+      <link>https://xtawa.top/posts/secret/_friendlink/</link>
+      <pubDate>Thu, 10 Jul 2025 16:23:32 +0800</pubDate>
+      <author>zeromostia@gmail.com (YanLuo洛)</author>
+      <guid>https://xtawa.top/posts/secret/_friendlink/</guid>
       <description></description>
       
     </item>

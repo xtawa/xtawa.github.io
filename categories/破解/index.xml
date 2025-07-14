@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>破解 on YanLuo洛&#39;s Blog - 分享技术学习心得</title>
-    <link>https://xtawa.top/categories/%E7%A0%B4%E8%A7%A3/</link>
+    <link>http://localhost:1313/categories/%E7%A0%B4%E8%A7%A3/</link>
     <description>Recent content in 破解 on YanLuo洛&#39;s Blog - 分享技术学习心得</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>zeromostia@gmail.com (YanLuo洛)</managingEditor>
     <webMaster>zeromostia@gmail.com (YanLuo洛)</webMaster>
     <copyright>© 2024 - 2025 xtawa All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 10 Jul 2025 14:23:29 +0800</lastBuildDate><atom:link href="https://xtawa.top/categories/%E7%A0%B4%E8%A7%A3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Jul 2025 14:23:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E7%A0%B4%E8%A7%A3/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>记一次电子班牌破解记录</title>
-      <link>https://xtawa.top/posts/nouscrack/</link>
+      <link>http://localhost:1313/posts/nouscrack/</link>
       <pubDate>Thu, 10 Jul 2025 14:23:29 +0800</pubDate>
       <author>zeromostia@gmail.com (YanLuo洛)</author>
-      <guid>https://xtawa.top/posts/nouscrack/</guid>
+      <guid>http://localhost:1313/posts/nouscrack/</guid>
       <description></description>
       
     </item>
